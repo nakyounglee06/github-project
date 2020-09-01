@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		게시판입니다
+
 </body>
 </html>
